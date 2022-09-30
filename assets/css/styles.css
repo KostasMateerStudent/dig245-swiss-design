@@ -1,2 +1,26 @@
 
 /* css */
+
+body {
+  font-family: "Arimo", sans-serif;
+}
+.ltblack {
+  background-color: #000214;
+}
+.greyish {
+  background-color: #dfe3d9;
+}
+.olive {
+  background-color: #a5af9e;
+}
+.red {
+  color: #bc141d;
+}
+.black {
+  color: #000000;
+}
+
+p {
+  font-weight: bold;
+  color: #000000;
+}
