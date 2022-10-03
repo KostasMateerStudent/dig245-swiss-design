@@ -13,9 +13,11 @@ body {
 .olive {
   background-color: #a5af9e;
 }
-.red {
-  color: #bc141d;
+a {
+  text-decoration: none;
+  fill: #bc141d;
 }
+
 .black {
   color: #000000;
 }
